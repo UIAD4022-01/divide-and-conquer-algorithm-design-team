@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\divide-and-conquer-algorithm-design-team\Crocodile\Crocodile\bin\Debug\Crocodile.exe.config
+C:\Users\ASUS\source\repos\divide-and-conquer-algorithm-design-team\Crocodile\Crocodile\bin\Debug\Crocodile.exe
+C:\Users\ASUS\source\repos\divide-and-conquer-algorithm-design-team\Crocodile\Crocodile\bin\Debug\Crocodile.pdb
+C:\Users\ASUS\source\repos\divide-and-conquer-algorithm-design-team\Crocodile\Crocodile\obj\Debug\Crocodile.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\divide-and-conquer-algorithm-design-team\Crocodile\Crocodile\obj\Debug\Crocodile.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\divide-and-conquer-algorithm-design-team\Crocodile\Crocodile\obj\Debug\Crocodile.exe
+C:\Users\ASUS\source\repos\divide-and-conquer-algorithm-design-team\Crocodile\Crocodile\obj\Debug\Crocodile.pdb
