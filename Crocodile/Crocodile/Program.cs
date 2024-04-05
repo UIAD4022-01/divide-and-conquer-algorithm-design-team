@@ -8,9 +8,9 @@ namespace Crocodile
 {
     internal class Program
     {
-        static int func(int level,int hot,int cold,int target,int current)
+        static int func(int level,int hot,int cold,int target,float current)
         {
-            if(target == current) return level;
+            if(Math.Abs(target-current)<0.15) return level;
 
             if (current < target)
             {
@@ -40,6 +40,9 @@ namespace Crocodile
                     dataset[i].Add(int.Parse(dataLine[j]));   
                 }
             }
+
+            Console.WriteLine(func(0, dataset[1][0], dataset[1][1], dataset[1][2],0));
+            Console.ReadKey();
         }
     }
 }
