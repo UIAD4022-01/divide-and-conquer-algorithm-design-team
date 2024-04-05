@@ -8,6 +8,11 @@ namespace Crocodile
 {
     internal class Program
     {
+        static int func(int level,int hot,int cold,int target,int current)
+        {
+            
+        }
+
         static void Main(string[] args)
         {
             //Getting quera input
