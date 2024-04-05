@@ -14,11 +14,11 @@ namespace Crocodile
 
             if (current < target)
             {
-                current = (current*level+hot)/level + 1;
+                current = (current*level+hot)/(level + 1);
             }
             else if(current > target)
             {
-                current = (current * level + cold) / level + 1;
+                current = (current * level + cold) / (level + 1);
             }
             return func(level+1,hot,cold,target,current);
         }
