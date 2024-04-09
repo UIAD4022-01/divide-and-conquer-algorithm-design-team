@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A4194C7B-2229-4DD9-BE47-630EA533E7DC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Naghoos PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Crocodile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Crocodile/Program.cs">
+    <Files>
+      <File FileName="../Naghoos/Program.cs" Line="12" Column="2" />
+      <File FileName="Crocodile/Program.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Crocodile" expanded="True">
+            <Node name="Crocodile" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Naghoos" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

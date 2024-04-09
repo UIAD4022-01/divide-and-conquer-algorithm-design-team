@@ -1,0 +1,15 @@
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/bin/Debug/net7.0/Naghoos
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/bin/Debug/net7.0/Naghoos.deps.json
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/bin/Debug/net7.0/Naghoos.runtimeconfig.json
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/bin/Debug/net7.0/Naghoos.dll
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/bin/Debug/net7.0/Naghoos.pdb
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/obj/Debug/net7.0/Naghoos.csproj.AssemblyReference.cache
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/obj/Debug/net7.0/Naghoos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/obj/Debug/net7.0/Naghoos.AssemblyInfoInputs.cache
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/obj/Debug/net7.0/Naghoos.AssemblyInfo.cs
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/obj/Debug/net7.0/Naghoos.csproj.CoreCompileInputs.cache
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/obj/Debug/net7.0/Naghoos.dll
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/obj/Debug/net7.0/refint/Naghoos.dll
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/obj/Debug/net7.0/Naghoos.pdb
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/obj/Debug/net7.0/Naghoos.genruntimeconfig.cache
+/Users/amin/Documents/University/Term 4/Algorithm Design/Exercises/2- Divide & Conquer/Group/divide-and-conquer-algorithm-design-team/Naghoos/obj/Debug/net7.0/ref/Naghoos.dll
