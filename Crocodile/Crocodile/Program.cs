@@ -14,7 +14,7 @@ namespace Crocodile
 
             if (current < target)
             {
-                current = (current*level+hot)/(level + 1);
+                current = (current*level+hot) / (level + 1);
             }
             else if(current > target)
             {
@@ -41,7 +41,7 @@ namespace Crocodile
                 }
             }
 
-            Console.WriteLine(func(0, dataset[1][0], dataset[1][1], dataset[1][2],0));
+            Console.WriteLine(func(1, dataset[1][0], dataset[1][1], dataset[1][2], dataset[1][0]));
             Console.ReadKey();
         }
     }
