@@ -10,7 +10,12 @@ namespace MyApp
             int[,] matrix = ReadMatrix(n);
             int[,] matrixPowerThree = MultiplyMatrices(matrix, MultiplyMatrices(matrix, matrix, n), n);
             
-            
+            if (CycleLengthThree(matrixPowerThree, n))
+            {
+                Console.WriteLine("YES");
+            }
+            else
+                Console.WriteLine("NO");
 
         }
 
