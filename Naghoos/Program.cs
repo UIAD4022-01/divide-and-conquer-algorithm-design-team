@@ -9,9 +9,25 @@ namespace MyApp
             int n = int.Parse(Console.ReadLine());
             int[,] matrix = ReadMatrix(n);
             int[,] matrixPowerThree = MultiplyMatrices(matrix, MultiplyMatrices(matrix, matrix, n), n);
+            
+            
 
         }
 
+        public static bool CycleLengthThree(int[,] matrixPowerThree, int n)
+        {
+            for (int i = 0; i < n; i++)
+            {
+                if (matrixPowerThree[i,i] != 0)
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        // Multiplying Matrix1 into Matrix2
         public static int[,] MultiplyMatrices(int[,] matrix1, int[,] matrix2, int n)
         {
             int[,] result = new int[n, n];
@@ -30,6 +46,7 @@ namespace MyApp
             return result;
         }
 
+        // Reading Matrix Line by Line Separated by ' '
         public static int[,] ReadMatrix(int n)
         {
             int[,] matrix = new int[n, n];
