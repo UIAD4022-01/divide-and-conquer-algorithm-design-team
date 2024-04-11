@@ -1,4 +1,10 @@
-﻿using System;
+﻿
+
+// Mohammadamin Nasiri            ID: "4013613080"
+// Tohid Noori                    ID: "4013613082"
+// Setayesh Varaei Yeganeh        ID: "4013623022"
+
+using System;
 
 namespace MyApp
 {
@@ -125,24 +131,6 @@ namespace MyApp
             }
         }
 
-        //public static int[,] MultiplyMatrices(int[,] matrix1, int[,] matrix2, int n)
-        //{
-        //    int[,] result = new int[n, n];
-
-        //    for (int i = 0; i < n; i++)
-        //    {
-        //        for (int j = 0; j < n; j++)
-        //        {
-        //            for (int k = 0; k < n; k++)
-        //            {
-        //                result[i, j] += matrix1[i, k] * matrix2[k, j];
-        //            }
-        //        }
-        //    }
-
-        //    return result;
-        //}
-
         // Reading Matrix Line by Line Separated by ' '
         public static int[,] ReadMatrix(int n)
         {
@@ -152,21 +140,8 @@ namespace MyApp
             {
                 string[] input = Console.ReadLine().Split(' ');
 
-                //if (input.Length != n)
-                //{
-                //    Console.WriteLine($"Error: Expected {n} elements for row {i + 1}");
-                //    return null;
-                //}
-
                 for (int j = 0; j < n; j++)
                     matrix[i, j] = int.Parse(input[j]);
-                //{
-                //    if (!int.TryParse(input[j], out matrix[i, j]))
-                //    {
-                //        Console.WriteLine($"Error: Invalid input '{input[j]}'");
-                //        return null;
-                //    }
-                //}
             }
 
             return matrix;
